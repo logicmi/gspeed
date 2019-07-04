@@ -52,7 +52,9 @@
 
 扫描界面上的二维码，使用极速VPN账号登录，进入如下界面，  
 ![极速看世界](http://cdn.yigetizi.com/pic/v3.jpg)
+
 如果还没有账号，可以在这个页面先注册账号，会有免费的流量赠送。
+
 ![极速看世界](http://cdn.yigetizi.com/pic/v4.jpg)
 
 ## 选择节点和连接
