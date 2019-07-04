@@ -6,11 +6,12 @@
 
 2、使用领取的Apple Id登录App Store。
 
-打开“设置”，点击最上面的的头像账号，
-点开“iTunes Store与App Store”，
-点开Apple ID，点击“退出登录”。
-点击“登录”，用你获取的非中国区账号登录。
-打开App Store，会发现已经进入非中国区的App Store了。
+打开“设置”，点击最上面的的头像账号，  
+点开“iTunes Store与App Store”，  
+点开Apple ID，点击“退出登录”。  
+点击“登录”，用你获取的非中国区账号登录。  
+打开App Store，会发现已经进入非中国区的App Store了。  
+
 3、搜索“gspeed”，下载“Gspeed”应用。
 
 4、打开应用，新用户注册、登录账号后使用，老用户可以使用原来的账号登录使用。
