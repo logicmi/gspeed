@@ -1,5 +1,10 @@
 新用户需要先注册账号，账号可以在iOS、Android端APP或者是MacOS、Windows的软件上注册。对应APP和软件的获取方式请往下看，注意区分不同版本。
 
+请保留这个网址，如果官方网站发生变化，这里会有说明
+gspeed.be  
+gspeed.de  
+gspeed.mobi  
+
 # iPhone手机和iPad用户操作
 
 1. 获取一个非中国区的Apple Id账号。推荐到某宝网站搜索“苹果海外id”购买一个，账号所在国家只要不是中国大陆地区的都可以。
