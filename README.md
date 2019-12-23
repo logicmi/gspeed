@@ -1,6 +1,9 @@
 新用户需要先注册账号，账号可以在iOS、Android端APP或者是MacOS、Windows的软件上注册。对应APP和软件的获取方式请往下看，注意区分不同版本。
 
 请保留这个网址，如果官方网站发生变化，这里会有说明  
+[gspeed.link](http://gspeed.link/)
+[gspeed.cc](http://gspeed.cc/)  
+[gspeed.club](http://gspeed.club/)  
 [gspeed.be](http://gspeed.be/)  
 [gspeed.de](http://gspeed.de/)  
 [gspeed.mobi](http://gspeed.mobi/)  
